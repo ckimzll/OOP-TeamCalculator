@@ -4,4 +4,4 @@
 ### 주요 기능 
 - 원, 사각형, 삼각형의 넓이를 계산
 
-<img src="[https://user-images.githubusercontent.com/87884004/245713936-fea1791c-e0db-4c0c-b54b-ca00936d9056.gif](https://user-images.githubusercontent.com/87884004/245720248-675b9a27-1003-4d37-b066-2411d22df8b5.gif)"></img>
+<img src="https://user-images.githubusercontent.com/87884004/245720248-675b9a27-1003-4d37-b066-2411d22df8b5.gif"></img>
